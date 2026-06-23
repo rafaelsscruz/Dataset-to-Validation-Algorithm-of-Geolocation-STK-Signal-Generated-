@@ -1,0 +1,5 @@
+Welcome to the Dataset-to-Validation-Algorithm-of-Geolocation-STK-Signal-Generated!
+
+The title "RF Signal Emulation Technique for Geolocation Database Generation" refers to an emulation process that seeks to replicate the dynamic behavior of radio frequency (RF) signals in a controlled environment, integrating factors such as channel effects, antenna radiation patterns, and orbital geometry. The primary objective of this work is to create a structured dataset suitable for use during the algorithm development phase for geolocation. In the aerospace context—where access to data from orbiting satellites is restricted and costly—the synthetic generation of high-fidelity data is essential for validating passive reception architectures on the testbench prior to the mission phase, during which the hardware must operate in the actual operational environment.
+
+<img width="865" height="756" alt="Captura de tela 2025-06-02 222238" src="https://github.com/user-attachments/assets/c807bbfe-8ee5-45eb-9a46-434b4aea7756" />
